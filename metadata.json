@@ -1,0 +1,6 @@
+{
+  "name": "Digital Inventory & Sales Management System",
+  "description": "A full-stack web application for small shops to manage products, stock, purchases, sales receipts, suppliers, and CSV reports (VTU 3rd Semester CSE Community Project).",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
